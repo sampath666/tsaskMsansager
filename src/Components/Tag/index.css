@@ -1,0 +1,25 @@
+.l2 {
+  list-style: none;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.tag {
+  border: 1px solid #f3aa4e;
+  border-radius: 5px;
+  width: 93px;
+  height: 26px;
+  color: #ffffff;
+  background-color: transparent;
+  font-size: 12px;
+}
+
+.active-tag {
+  background-color: #f3aa4e;
+  border-radius: 5px;
+  width: 93px;
+  height: 26px;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: bold;
+}

@@ -1,0 +1,30 @@
+.p1 {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.d8 {
+  display: flex;
+  width: 50vw;
+  justify-content: space-between;
+  background-color: #323f4b;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+
+.p2 {
+  border-radius: 5px;
+  width: 130px;
+  height: 30px;
+  color: #323f4b;
+  font-weight: bold;
+  font-size: 13px;
+  background-color: #f3aa4e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
